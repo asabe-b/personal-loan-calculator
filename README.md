@@ -1,1 +1,1 @@
-# personal-loan-calculator
+# personal-loan-calculator# latest rate of intrest 12.5%
